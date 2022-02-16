@@ -16,11 +16,15 @@ The mapper.py and reducer.py file with the code is attached in repo
 - Ran the file through git bash using following code:
  "cat ../cats_txt.txt|./mapper.py|sort"
  -The following results were seen
+ 
+ 
  ![Mapper program](https://github.com/hafsa-said/homework-wk20/blob/main/mapperss.jpg)
  
  - Ran program through both mapper and reducer using:
    "cat ../cats_txt.txt|./mapper.py|sort|./reducer.py|sort -g "
  - The following results were seen
+
+
  ![Mapper and Reducer program](https://github.com/hafsa-said/homework-wk20/blob/main/reducerss.jpg)
  ![Mapper and Reducer program](https://github.com/hafsa-said/homework-wk20/blob/main/reducer2ndss.jpg)
  
